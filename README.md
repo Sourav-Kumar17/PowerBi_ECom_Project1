@@ -4,9 +4,9 @@ Work with a DataSet Using PowerBI Tool. Analyse the Data and answer the Question
 
 **BUSINESS CASE**
 The Client asked you to create a Analtyical dashboard according to the Below Theme.
-. OverView about the Various KPI's
-. Pricing and Promotion
-. Search Recommendations etc
+1. OverView about the Various KPI's
+2. Pricing and Promotion
+3. Search Recommendations etc
 While Making a dashboard you are expected to clean the data if required. Once you clean the data you need to answer the below question.
 1. What variable can be derived out of the data Which can be helpful?
 2. Who can Use this Dashboard?
@@ -24,5 +24,5 @@ The Below are the Business Question as a part of this Analysis.
 7. How Pricing Flucataion Effect Sales?
 
 **FINAL DELIVERABLES**
-. Analytical Dashbaord By using PowerBI
-. Detailed Document Summerize the Insight
+1. Analytical Dashbaord By using PowerBI
+2. Detailed Document Summerize the Insight
